@@ -3,7 +3,7 @@ Kitchensink on OpenShift
 
 This is the kitchensink html5/mboile JBoss Quickstart app.
 
-Running on OpenShift
+Running on OpenShift 
 --------------------
 
 Create an account at https://www.openshift.com
